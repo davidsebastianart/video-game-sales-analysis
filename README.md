@@ -65,4 +65,4 @@ It contains data on over **19,000 video games**, including:
 👨‍💻 Created by: **David Sebastian Aritonang**  
 📧 Email: [davidsebastianartt@gmail.com](mailto:davidsebastianartt@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/david-sartt](https://www.linkedin.com/in/david-sartt/)  
-📁 GitHub Repo: [Video Game Sales Analysis](https://github.com/davidsebastianart/VideoGame-Sales-Analysis)
+📁 GitHub Repo: [Video Game Sales Analysis](https://github.com/davidsebastianart/video-game-sales-analysis/)
